@@ -74,11 +74,11 @@
 //   server.listen({
 //     port,
 //     host: "0.0.0.0",
-    reusePort: true,
-  }, () => {
-    log(`serving on port ${port}`);
-  });
-})();
+//     reusePort: true,
+//   }, () => {
+//     log(`serving on port ${port}`);
+//   });
+// })();
 
 import express from 'express';
 import path from 'path';
