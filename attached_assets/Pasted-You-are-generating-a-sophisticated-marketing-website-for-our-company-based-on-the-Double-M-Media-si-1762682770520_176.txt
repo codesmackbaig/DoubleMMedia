@@ -1,0 +1,29 @@
+You are generating a sophisticated marketing website for our company, based on the Double M Media site.  The site must use Next.js + Tailwind CSS in dark mode, with a futuristic Gen‑Z‑friendly theme.  Follow these principles:
+
+• Simplicity & fast loading – Gen‑Z users value clean, clutter‑free design and quick load times:contentReference[oaicite:3]{index=3}:contentReference[oaicite:4]{index=4}.  Use concise navigation and avoid pop‑ups.
+• Mobile‑first & responsive – ensure the site looks great on phones, tablets and desktops:contentReference[oaicite:5]{index=5}.
+• Rich visuals & personalization – include striking images, dynamic videos, 3D models and interactive graphics:contentReference[oaicite:6]{index=6}.  Use @react-three/fiber to add a 3D hero object relevant to our services (e.g., a rotating product or digital marketing icon).  The hero should have animated call‑to‑action buttons encouraging visitors to contact us.
+• Personalised AI – integrate a chatbot component that can answer basic questions and recommend products (use a placeholder API call).  Add personalized product recommendations on the e‑commerce pages.
+• Social & inclusive – embed social media share buttons and feeds; ensure the design is diverse and inclusive:contentReference[oaicite:7]{index=7}.
+
+Create the following pages and components:
+
+1. **Home** – a hero section with 3D animation and our tagline.  Summarize our services:  
+   – Web Development (custom websites, responsive mobile design, SEO‑optimized structures, e‑commerce development, ongoing maintenance and secure hosting:contentReference[oaicite:8]{index=8}).  
+   – Web Design (user‑centred design, intuitive user flows, seamless journeys, user research/testing, accessibility‑focused design:contentReference[oaicite:9]{index=9}).  
+   – AI Product Photography & 3D Modelling (interactive visuals, automated editing, photorealistic 3D models, 360‑degree views, AR integration, batch optimisation:contentReference[oaicite:10]{index=10}).  
+   – Precision Performance Marketing (advanced audience segmentation, real‑time campaign optimisation, predictive modelling & data insights:contentReference[oaicite:11]{index=11}).  
+   – SmartCommerce Management (e‑commerce store setup & optimisation, customer support solutions, AI‑generated product recommendations, smart analytics for stock management and product management:contentReference[oaicite:12]{index=12}).  
+   Emphasise that we are a digital marketing and creative agency with a team of developers, designers and marketers:contentReference[oaicite:13]{index=13} and that visitors should contact us for business opportunities.
+
+2. **Service pages** – separate pages for each service above.  Each page should start with a 3D or animated hero and clearly list key features from our research (bullet points summarised above).  Use framer-motion for scroll animations and call‑to‑action buttons leading to the contact form.
+
+3. **Portfolio** – a grid of past projects with images and hover effects.  Include filter buttons (e.g., “E‑commerce App”, “UI/UX Design”) and link to detailed case‑study pages.
+
+4. **About Us** – tell our story, drawing on the fact that we’ve been using graphic design and websites to bring brands to life for over 10 years:contentReference[oaicite:14]{index=14}.  Highlight that DMM helps businesses transition from retail to online:contentReference[oaicite:15]{index=15}.
+
+5. **Contact** – a contact page with a form that uses emailjs to send emails.  Include our address and phone numbers from the original site.  Add a chatbot widget for quick questions.
+
+6. **Global components** – Header with a sticky navigation bar, dark‑mode toggle, and drop‑down “Services” menu; Footer with links, social icons and a dark background.
+
+Comment the code clearly and include placeholder images/models and API keys.  Use environment variables for any secrets.  Ensure the site is fully responsive, accessible, and ready to deploy.  After generating the code, populate `package.json`, `tailwind.config.ts`, and all page files accordingly.

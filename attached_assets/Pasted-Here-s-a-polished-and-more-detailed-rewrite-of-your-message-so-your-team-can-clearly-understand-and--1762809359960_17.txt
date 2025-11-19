@@ -1,0 +1,74 @@
+Here’s a polished and more detailed rewrite of your message so your team can clearly understand and execute each point effectively:
+
+---
+
+### 🔧 Website Update Instructions
+
+#### 1. **Contact Form Placement**
+
+* Add the **same contact form** (currently used elsewhere on the site) **right before the footer** on all relevant pages.
+* Ensure the design is consistent and responsive across all devices.
+
+#### 2. **Chat Icon**
+
+* Add a **floating chat icon** on the **bottom left corner** of every page.
+* It should remain **visible while scrolling** and not overlap with other floating elements.
+
+#### 3. **Influencer Collaborations Section**
+
+* Expand this section by **adding more influencer videos** (preferably in a grid or carousel layout).
+* Include **different types of UGC content** such as:
+
+  * Shoutouts
+  * Unboxings
+  * Reviews
+  * Tryouts
+* Make it **visually engaging** and **scroll-interactive**, reflecting a **social media or celebrity vibe**.
+
+#### 4. **Service Pages Enhancement**
+
+* Add **interactive elements** to each service page — e.g. short animated icons, hover effects, video snippets, or before/after visuals.
+* The goal is to make each service **feel alive and immersive**, not just static text.
+
+#### 5. **Client Reviews Section**
+
+* Change the **star color** in the “What Our Clients Say” section to **golden yellow**.
+* **Remove** the button labeled “Read More Reviews on Trustpilot.”
+* Ensure spacing and typography look balanced after the removal.
+
+#### 6. **Case Study Redirect Behavior**
+
+* When users click **“Read Full Case Study”**, ensure:
+
+  * It redirects to the **Case Study page** and starts from the **top of the page**, not the bottom.
+  * Apply this logic across all internal redirects — every page should open from the **top** for smooth user experience.
+
+#### 7. **UGC Campaign Main Page**
+
+* Create a **dedicated page** titled **“View Full UGC Campaign.”**
+* Design it with:
+
+  * **Exciting visuals and animations** inspired by social media.
+  * **Short videos and highlights** (shoutouts, unboxings, tryouts, influencer reels).
+  * A **celebrity-style layout** that makes it feel authentic and dynamic.
+  * Include a **mix of physical and digital brand collaborations.**
+
+#### 8. **Portfolio Section**
+
+* Rework the **Our Portfolio** section to be **more informative and story-driven.**
+* Follow a **case study approach** — show:
+
+  * The **brand’s starting point**,
+  * The **strategy and process**,
+  * The **transformation results** (visuals, metrics, impact).
+* Goal: let visitors understand **how we take brands from ground to sky**.
+
+#### 9. **Footer Redesign**
+
+* Redesign the **footer** to be **sleek, modern, and minimalistic.**
+* Use clean typography, proper spacing, and subtle background contrast.
+* Remove any outdated or cluttered elements.
+
+---
+
+Would you like me to turn this into a **formatted task document** (e.g., a “Website Update Brief” PDF or Google Doc-style layout) that you can send to your web dev/design team?

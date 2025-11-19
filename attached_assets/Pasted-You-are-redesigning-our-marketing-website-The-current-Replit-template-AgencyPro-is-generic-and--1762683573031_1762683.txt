@@ -1,0 +1,13 @@
+You are redesigning our marketing website. The current Replit template (“AgencyPro”) is generic and does not reflect our requirements. Build a dark‑themed, Gen‑Z‑friendly site with neon accents and micro‑animations. Use @react-three/fiber to create interactive 3D elements and backgrounds throughout the site, not just the hero. 
+
+Create separate pages: Home, Web Development, Web Design, AI Product Photography & 3D Modeling, Precision Performance Marketing, SmartCommerce Management, Portfolio, About Us and Contact. 
+
+For each service page:
+- Use an animated hero with relevant 3D visuals and clearly list the service’s key features:  
+  * Web Development: custom websites, responsive mobile design, SEO‑optimized structure, e‑commerce site development, maintenance and secure hosting:contentReference[oaicite:12]{index=12}.  
+  * Web Design: user‑centered design, intuitive flows, seamless journeys, comprehensive user research/testing and accessibility:contentReference[oaicite:13]{index=13}.  
+  * AI Product Photography & 3D Modeling: interactive visual elements, automated editing, photorealistic 3D models, 360‑degree product views, AR integration and batch image optimization:contentReference[oaicite:14]{index=14}.  
+  * Precision Performance Marketing: advanced audience segmentation, real‑time optimization, predictive modelling and data insights:contentReference[oaicite:15]{index=15}.  
+  * SmartCommerce Management: e‑commerce store setup and optimization, customer support solutions, AI‑generated product recommendations, smart analytics for stock and product management:contentReference[oaicite:16]{index=16}.
+
+Ensure the entire site uses a black or very dark background with neon or gradient accents. Add a dark‑mode toggle via next-themes, social‑media integration, and animated call‑to‑action buttons encouraging visitors to contact us. Include a chatbot component for quick questions and a contact form on every page that posts to emailjs. Showcase a diverse portfolio grid with unique projects and interactive hover effects. Use our real company story and testimonials instead of placeholders. Keep the design simple, mobile‑first and fast to load as Gen Z users expect:contentReference[oaicite:17]{index=17}. 

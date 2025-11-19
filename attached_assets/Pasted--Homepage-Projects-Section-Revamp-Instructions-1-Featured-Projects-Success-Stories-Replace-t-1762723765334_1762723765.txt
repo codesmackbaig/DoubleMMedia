@@ -1,0 +1,63 @@
+🔧 Homepage & Projects Section Revamp Instructions
+1. Featured Projects → Success Stories
+
+Replace the current “Featured Projects” section with a new “Our Success Stories” section.
+
+Goal:
+Showcase each project as a story of success — from planning and strategy to execution and results — giving visitors a quick overview of the journey behind every project.
+
+Structure:
+
+Each project card should summarize the journey in a “snapshot” format (a brief intro, objective, process, and outcome).
+
+Include visuals like before/after shots, key metrics, and short text highlights.
+
+When a visitor clicks on a project, they’ll be taken to an individual project page that contains:
+
+Full case study with detailed timelines and visuals.
+
+Challenges faced and solutions implemented.
+
+Client feedback or testimonial.
+
+I’ve attached a document with our actual success stories — please review it carefully to understand the tone, structure, and level of detail we want to display.
+
+2. Trustpilot Reviews / Testimonials
+
+Add a new Trustpilot Reviews or What Our Clients Say section to the homepage.
+
+Goal:
+Show real feedback and testimonials from our verified Trustpilot account to build authenticity and trust.
+
+Design Suggestions:
+
+Display 3–5 rotating reviews with the star rating, client name, and company (if available).
+
+Include a “Read More Reviews” button that links directly to our Trustpilot profile.
+
+Use interactive motion (e.g., fade/slide animations) to make the section engaging.
+
+3. UGC (User-Generated Content) Showcase
+
+Add a creative and interactive section dedicated to Social Media Marketing / Influencer Collaborations.
+
+Goal:
+Highlight our collaborations with influencers and the UGC videos they’ve created for our campaigns.
+
+Design & Functionality:
+
+Create a visually rich, dynamic grid or carousel showing short looping video clips (TikTok, Instagram Reels style).
+
+Each video card should autoplay on hover/tap, with a title overlay (e.g., “UGC by @username”).
+
+Include a “View More UGCs” or “See Full Campaign” button leading to a dedicated UGC page.
+
+Optionally add filters/tabs like Fashion, Tech, Sports, Beauty to categorize UGC campaigns.
+
+4. Additional Homepage Enhancements (Optional but Recommended)
+
+Add a “Stats & Achievements” section highlighting milestones (e.g., “50+ successful projects”, “10M+ ad impressions”, “5-Star rating on Trustpilot”).
+
+Include a “Why Brands Choose Us” section summarizing your agency’s key strengths (e.g., data-driven approach, AI-integrated marketing, influencer partnerships).
+
+Integrate subtle micro-animations (scroll effects, hover transitions) to keep the site interactive and modern.
